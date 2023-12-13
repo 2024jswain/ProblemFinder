@@ -26,7 +26,7 @@ def login_page():
             st.success("Keys Successful. Press Submit Again to Confirm Usage")
 
         else:
-            st.error("Invalid username or password!")
+            st.error("Keys Unsuccessful")
 
 
 def authenticateKeys(ASINkey, GPTAPIkey):
