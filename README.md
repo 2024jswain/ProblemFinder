@@ -13,7 +13,7 @@ Initially, my project concept was overly ambitious due to a lack of thorough res
 
 Demo of Final Work (15 Points):
 
-For a comprehensive demonstration of the final project, including its functionality and features, please refer to the video in the repository.
+https://youtu.be/Wfy6ixLN1Bc
 
 Achievement of Metrics (10 Points):
 
